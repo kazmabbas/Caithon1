@@ -1,6 +1,6 @@
 FROM thejmthon/jmrzd:slim-buster
 
-RUN git clone https://github.com/thejmthon/jmrzd.git /root/jmisgood
+RUN git clone https://github.com/kazmabbas/Caithon.git /root/jmisgood
 
 WORKDIR /root/jmisgood
 
